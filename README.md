@@ -34,7 +34,7 @@ WEATHER FORECASTING APPLICATION : Using HTML, CSS and Javascript
 
 ## Technologies:
 
-**Frontend:** HTML, CSS, JavaScript, React.js or Angular
+**Frontend:** HTML, CSS, JavaScript
 
 **API:** OpenWeatherMap
 
