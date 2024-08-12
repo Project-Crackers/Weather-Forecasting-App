@@ -44,7 +44,9 @@ WEATHER FORECASTING APPLICATION : Using HTML, CSS and Javascript
 ## Learning Outcomes:
 
 Experience in web development
+
 Skills in API integration and responsive design
+
 Knowledge of deployment processes
 
 
